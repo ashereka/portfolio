@@ -2,4 +2,4 @@
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5296805"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<div class="flourish-embed flourish-scatter" data-src="visualisation/5297168"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-scatter" data-src="visualisation/5297245"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
