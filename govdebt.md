@@ -6,7 +6,7 @@
 
 <h1>Debt-To-GDP Ratio</h1>
 <p>This graph shows the GDP-to-Debt ratio over the years for countries. It gives us an insight on countries have been doing relative to each other over the period of 1995-2019.</p>
-<p>The graph shows trend of GDP-to-Debt ratio in a way that we can how it varies for the countries. I chose a muted purple color as I wanted to avoid the postive/ negative connotation with colors such as red, green, blue. </p>
+<p>The graph shows trend of GDP-to-Debt ratio in a way that we can see how the trend varies as per country. I chose a muted purple color as I wanted to avoid the postive/ negative connotation with colors such as red, green, blue. </p>
 <div class="flourish-embed flourish-chart" data-src="visualisation/5296805"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <h1>Debt-To-GDP Ratio Fluctuations</h1>
