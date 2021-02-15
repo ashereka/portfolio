@@ -10,7 +10,13 @@
 <h2>Data Source</h2>
 <p>I will be referring to EEO1 Diversity reports relesed by major tech companies over the years. These reports are not relesed by all tech companies. So, my analysis would be based on the companies who release the report.</p>
 <a href="https://www.documentcloud.org/documents/4107286-23andMe-2016.html">For instance this is EEO1 Diversity report 2016 for Google</a>
+<br>
 <a href="https://www.documentcloud.org/documents/4107286-23andMe-2016.html">For instance this is EEO1 Diversity report 2016 for 23andMe</a>
-<p></p>
+<br>
+<h2>Initail Sketch</h2>
+<img src="https://drive.google.com/file/d/13ZcG6g8ANnUErQZZvvYfu1NIUtMdj5th/view?usp=sharing" >
+
+
+
 <p></p>
 <p></p>
