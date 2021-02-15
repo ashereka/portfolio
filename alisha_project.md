@@ -14,9 +14,5 @@
 <a href="https://www.documentcloud.org/documents/4107286-23andMe-2016.html">For instance this is EEO1 Diversity report 2016 for 23andMe</a>
 <br>
 <h2>Initail Sketch</h2>
-<img src="https://drive.google.com/file/d/13ZcG6g8ANnUErQZZvvYfu1NIUtMdj5th/view?usp=sharing" >
+<img src="InitialSketch.jpg" >
 
-
-
-<p></p>
-<p></p>
