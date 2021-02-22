@@ -15,8 +15,6 @@
 <h2>The Wireframe</h2>
 <img src="wireframe.jpeg" ><br>
 
-<h2>The Wireframe</h2>
-<img src="wireframe.jpeg" ><br>
 
 <h2>User Feedback</h2>
 <img src="user.jpeg" ><br>
