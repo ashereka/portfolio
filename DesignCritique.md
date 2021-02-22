@@ -19,7 +19,7 @@
 <h2>User Feedback</h2>
 <img src="user.jpeg" ><br>
 
-<h2>Final Redesigned data Vizualization</h2>
+<h2>Final Redesigned Data Vizualization</h2>
 <div class="flourish-embed flourish-chart" data-src="visualisation/5359934"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
 
