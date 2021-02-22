@@ -23,3 +23,5 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/5359934"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
 
+<h2>Final Thoughts</h2>
+<p>The change of graph from bar graph to trend graph changed the visual tremendously. It became easier to read. We can now observe the way trend lines for male and female change over the age groups. The elimination of 3-d bars and shadow effect eliminated the clutter. A clener, to the point graph makes for a better case.</p>
