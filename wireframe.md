@@ -46,8 +46,13 @@
 <h2>Future Plans for Changes Based on feedback</h2>
 <p>I will...</p>
 <ul>
-  <li>Use map of USA to show rise of hate crimes in cities</li>
+  <li>Use map of USA to show rise of hate crimes in cities instead of line graphs for multiple cities.</li>
   <li>Tell that the data is US specific in the first few slides</li>
   <li>End with how we can be a better ally to Asians</li>
   <li>Explain what Model Minority myth is at the start and tell where it originates from.</li>
 </ul> 
+
+<br>
+<h2>Moodboard</h2>
+
+<img src="moodboard.jpg" ><br>
