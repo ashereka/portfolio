@@ -1,7 +1,7 @@
 <h1>Part II, Final project wireframes / storyboards and user research</h1>
 
 <h2> Wireframes and Storyboard </h2>
-<p>I made the design shown below such that it incoperates both the story and wireframe.</p><br>
+<p>I made the design shown below such that it incoperates both the story and wireframe.</p>
 <p>I decided to use combination of bold statements to supplemet my data. Many of the slides have one statement with the most important word in the shade of purple to make a point. I decide to use the color scheme of gray and purple. I will be using red as well where the data shows a negative trait. I will use red exculsively to highlight bad news.</p>
 <p>My flow of narrative is such that I take a myth such as 'Asians are good at math' and bust it with data. I tackle 3 such myth in my wireframe below. I also build a narrative around why busting those myths is essential.</p>
 <img src="part 2 _ Wireframes -01.jpg" ><br>
@@ -16,3 +16,5 @@
 <img src="part 2 _ Wireframes -10.jpg" ><br>
 <img src="part 2 _ Wireframes -11.jpg" ><br>
 
+<h2> Target Audience </h2>
+<p>My target audience are socially conscious people with good intentions towards the Asian community. This group would include activists and people having Asian friends or people who care about well-being of Asian people. This would also include people living in multi-cultural communities such as universities. </p>
