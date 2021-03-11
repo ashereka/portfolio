@@ -34,3 +34,20 @@
   <li>What do you think about the color scheme?</li>
   <li>What improvements would you recommend?</li>
 </ul> 
+<h2>Findings from the Interviews</h2>
+<p>All 3 people liked the color scheme and the narrative.</p>
+<p>They pointed out some flwas as well:</p>
+<ul>
+  <li>The graph of cities can be done better</li>
+  <li>Is this data US specific?</li>
+  <li>Ending could be more actionable</li>
+  <li>Not sure what Model Minority Myth is.</li>
+</ul> 
+<h2>Future Plans for Changes Based on feedback</h2>
+<p>I will...</p>
+<ul>
+  <li>Use map of USA to show rise of hate crimes in cities</li>
+  <li>Tell that the data is US specific in the first few slides</li>
+  <li>End with how we can be a better ally to Asians</li>
+  <li>Explain what Model Minority myth is at the start and tell where it originates from.</li>
+</ul> 
