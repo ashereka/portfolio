@@ -20,7 +20,7 @@
 <p>My target audience are socially conscious people with good intentions towards the Asian community. This group would include activists and people having Asian friends or people who care about well-being of Asian people. This would also include people living in multi-cultural communities such as universities. </p>
 <br>
 <h2>How I chose individuals to interview</h2>
-<p>I wanted to interview people who make an effoert to be socially conscious and inhabit multi-cultural spaces. I wanted to make sure I interviewed people belonging to different races and gender.</p>
+<p>I wanted to interview people who make an effort to be socially conscious and inhabit multi-cultural spaces. I wanted to make sure I interviewed people belonging to different races and gender.</p>
 <p>I interviewed a total of 3 people. One was American/White. Second one was Aisan. Third was Asian(Indian).</p>
 <p>2 out the 3 were female and the remaining one was male.</p>
 <br>
