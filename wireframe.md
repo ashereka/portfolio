@@ -23,3 +23,14 @@
 <p>I wanted to interview people who make an effoert to be socially conscious and inhabit multi-cultural spaces. I wanted to make sure I interviewed people belonging to different races and gender.</p>
 <p>I interviewed a total of 3 people. One was American/White. Second one was Aisan. Third was Asian(Indian).</p>
 <p>2 out the 3 were female and the remaining one was male.</p>
+<br>
+<h2>My Interview Script</h2>
+<p>I asked the below questions:</p>
+<ul>
+  <li>What is your first impression?</li>
+  <li>Were you able to understand the topic? </li>
+  <li>Does the flow of the narrative make sense?</li>
+  <li>What do you think about the data vizualization?</li>
+  <li>What do you think about the color scheme?</li>
+  <li>What improvements would you recommend?</li>
+</ul> 
