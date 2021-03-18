@@ -13,7 +13,6 @@ I hope to learn the art of restraint in vizualization. But more importantly, I w
 My Work:<br>
 <a href="https://ashereka.github.io/portfolio/DesignCritique">Critiquing and Redesigning a bad graph</a><br>
 <a href="https://ashereka.github.io/portfolio/govdebt">Vizualizing Goverment Debt</a><br>
-https://ashereka.github.io/portfolio/govdebt
 
 # Project: Why we need to stop with the model minority stereotype 
 <a href="https://ashereka.github.io/portfolio/alisha_project">Project Iteration 1: Rough Idea</a><br>
