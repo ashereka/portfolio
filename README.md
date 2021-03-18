@@ -11,9 +11,11 @@ I hope to learn the art of restraint in vizualization. But more importantly, I w
 
 # Portfolio
 My Work:<br>
-<a href="https://ashereka.github.io/portfolio/DesignCritique">Critiquing and Redesigning a bad graph</a>
+<a href="https://ashereka.github.io/portfolio/DesignCritique">Critiquing and Redesigning a bad graph</a><br>
+<a href="https://ashereka.github.io/portfolio/govdebt">Vizualizing Goverment Debt</a><br>
+https://ashereka.github.io/portfolio/govdebt
 
 # Project: Why we need to stop with the model minority stereotype 
-<a href="https://ashereka.github.io/portfolio/alisha_project">Project Iteration 1: Rough Idea</a>
-<a href="https://ashereka.github.io/portfolio/wireframe">Project Iteration 2: Wireframes </a>
-<a href="https://ashereka.github.io/portfolio/final">Project Iteration 3: Final Project</a>
+<a href="https://ashereka.github.io/portfolio/alisha_project">Project Iteration 1: Rough Idea</a><br>
+<a href="https://ashereka.github.io/portfolio/wireframe">Project Iteration 2: Wireframes </a><br>
+<a href="https://ashereka.github.io/portfolio/final">Project Iteration 3: Final Project</a><br>
