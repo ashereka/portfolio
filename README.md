@@ -10,4 +10,7 @@ So, I found the course of Telling Stories with Data at CMU and thought it fit in
 I hope to learn the art of restraint in vizualization. But more importantly, I want to learn the art of convincing my colleagues that a simple, minimal design works better than a cluttered, all encompassing one. I've had past experiences when I knew that a minimal design template worked the best but I lacked the vocabulary to make my point and convince them. Through this course I want to develop the ability to critique vizualizations in a manner that even the people who are indiffernt to design understand.
 
 # Portfolio
-WORK IN PROGRESS! All data will be here once I start building something :)
+<a href="url">link text</a>
+<a href="url">link text</a>
+<a href="url">link text</a>
+<a href="url">link text</a>
